@@ -21,6 +21,17 @@ export function MainNav() {
         </span>
       </Link>
       <nav className="flex items-center space-x-6 text-sm font-medium">
+      <Link
+          href="/"
+          className={cn(
+            "transition-colors hover:text-foreground/80",
+            pathname?.startsWith("/")
+              ? "text-foreground"
+              : "text-foreground/60"
+          )}
+        >
+          Charts
+        </Link>
         <Link
           href="/docs"
           className={cn(
@@ -70,17 +81,6 @@ export function MainNav() {
           )}
         >
           GitHub
-        </Link>
-         <Link
-          href="/"
-          className={cn(
-            "transition-colors hover:text-foreground/80",
-            pathname?.startsWith("/")
-              ? "text-foreground"
-              : "text-foreground/60"
-          )}
-        >
-          Charts
         </Link>
       </nav>
     </div>

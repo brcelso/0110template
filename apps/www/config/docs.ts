@@ -33,7 +33,7 @@ export const docsConfig: DocsConfig = {
     },
     {
       title: "GitHub",
-      href: "https://github.com/celso/ui",
+      href: "https://github.com/brcelso/ui",
       external: true,
     },
     {

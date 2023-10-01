@@ -71,14 +71,17 @@ export function MainNav() {
         >
           GitHub
         </Link>
-          <Link
-          href={home}
+         <Link
+          href="/"
           className={cn(
-            "hidden text-foreground/60 transition-colors hover:text-foreground/80 lg:block"
+            "transition-colors hover:text-foreground/80",
+            pathname?.startsWith("/")
+              ? "text-foreground"
+              : "text-foreground/60"
           )}
         >
           Charts
-        </Link> 
+        </Link>
       </nav>
     </div>
   )

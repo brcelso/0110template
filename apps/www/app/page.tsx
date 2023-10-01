@@ -35,6 +35,7 @@ export default function IndexPage() {
           Beautifully designed components that you can copy and paste into your
           apps. Accessible. Customizable. Open Source.
         </PageHeaderDescription>
+        <TradingViewWidget />
         <div className="flex w-full items-center space-x-4 pb-8 pt-4 md:pb-10">
           <Link href="/docs" className={cn(buttonVariants())}>
             Get Started

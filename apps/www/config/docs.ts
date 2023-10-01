@@ -8,6 +8,10 @@ interface DocsConfig {
 export const docsConfig: DocsConfig = {
   mainNav: [
     {
+      title: "Charts",
+      href: "/",
+    },
+    {
       title: "Documentation",
       href: "/docs",
     },

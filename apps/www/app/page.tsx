@@ -14,7 +14,7 @@ import {
 import { buttonVariants } from "@/registry/new-york/ui/button"
 import { Separator } from "@/registry/new-york/ui/separator"
 import DashboardPage from "@/app/examples/dashboard/page"
-import TradingViewWidget from "@/app/page"
+import TradingViewWidget from "@/app/twchart"
 
 export default function IndexPage() {
   return (

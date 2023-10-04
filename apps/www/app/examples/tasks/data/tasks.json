@@ -1,51 +1,16 @@
 [
   {
-    "id": “TASK-0001”,
-    "title": "Orcamento Coletores Epoca",
+    "id": "TASK-8782",
+    "title": "You can't compress the program without quantifying the open-source SSD pixel!",
     "status": "in progress",
-    "label": "feature",
-    "priority": "high"
-  },
-  {
-    "id": "TASK-0002”,
-    "title": "Computadores Nets",
-    "status": "in progress",
-    "label": "feature",
+    "label": "documentation",
     "priority": "medium"
   },
   {
-    "id": "TASK-0003”,
-    "title": "Antenas Hub Osasco GFL",
-    "status": "in progress",
-    "label": "bug",
-    "priority": "high"
-  },
-  {
-    "id": “TASK-0004”,
-    "title": "Envio Coletores CDs",
+    "id": "TASK-7878",
+    "title": "Try to calculate the EXE feed, maybe it will index the multi-byte pixel!",
     "status": "backlog",
-    "label": "feature",
-    "priority": "medium"
-  },
-  {
-    "id": "TASK-0005”,
-    "title": "Antenas CD 590",
-    "status": "backlog",
-    "label": "bug",
-    "priority": "medium"
-  },
-  {
-    "id": "TASK-0006”,
-    "title": "Antenas CD350",
-    "status": "backlog",
-    "label": "bug",
-    "priority": "medium"
-  },
-  {
-    "id": "TASK-0007”,
-    "title": "Conserto Impressoras Zebras CD300",
-    "status": "backlog",
-    "label": "bug",
+    "label": "documentation",
     "priority": "medium"
   },
 ]

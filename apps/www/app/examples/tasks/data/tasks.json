@@ -1,9 +1,51 @@
 [
   {
-    "id": "TASK-5207",
-    "title": "The SMS interface is down, copy the bluetooth bus so we can quantify the VGA card!",
+    "id": “TASK-0001”,
+    "title": "Orcamento Coletores Epoca",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "high"
+  },
+  {
+    "id": "TASK-0002”,
+    "title": "Computadores Nets",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium"
+  },
+  {
+    "id": "TASK-0003”,
+    "title": "Antenas Hub Osasco GFL",
     "status": "in progress",
     "label": "bug",
-    "priority": "low"
-  }
+    "priority": "high"
+  },
+  {
+    "id": “TASK-0004”,
+    "title": "Envio Coletores CDs",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium"
+  },
+  {
+    "id": "TASK-0005”,
+    "title": "Antenas CD 590",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium"
+  },
+  {
+    "id": "TASK-0006”,
+    "title": "Antenas CD350",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium"
+  },
+  {
+    "id": "TASK-0007”,
+    "title": "Conserto Impressoras Zebras CD300",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium"
+  },
 ]
